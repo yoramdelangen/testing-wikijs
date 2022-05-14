@@ -2,7 +2,7 @@
 title: Installation guide - Linux
 description: How to install Writeback Extreme on a Linux environment
 published: true
-date: 2022-05-14T08:18:13.376Z
+date: 2022-05-14T15:13:02.351Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T08:18:13.376Z
