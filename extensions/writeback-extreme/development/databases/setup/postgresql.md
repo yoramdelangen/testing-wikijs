@@ -2,7 +2,7 @@
 title: Run PostgreSQL via Docker
 description: 
 published: true
-date: 2022-05-14T08:20:36.425Z
+date: 2022-05-15T07:43:25.627Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-14T08:20:36.425Z
